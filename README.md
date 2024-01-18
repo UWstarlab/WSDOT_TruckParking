@@ -11,8 +11,8 @@ Smart and Cooperative Truck Parking Monitoring and Calibration System Empowered 
   * **prediction_nph**: code for prediction using non-homogenous poisson, in .py format (COMPLETED)
   * **save_data.py**: code for pulling data from vendor's server in pilot project (COMPLETED)
 * example
-  **save_data_example.ipynb**: A notebook for walking through process of pulling data from vendor's server in pilot project (COMPLETED)
-  **example_output**: output folder from save_data_example.ipynb (COMPLETED)
+  * **save_data_example.ipynb**: A notebook for walking through process of pulling data from vendor's server in pilot project (COMPLETED)
+  * **example_output**: output folder from save_data_example.ipynb (COMPLETED)
 * DOCS
   * All related document (on-going)
 
