@@ -4,3 +4,6 @@ Smart and Cooperative Truck Parking Monitoring and Calibration System Empowered 
 
 ## Reference for Prediction by using Deep Learning Method
 H. Yang et al., "Truck Parking Pattern Aggregation and Availability Prediction by Deep Learning," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 8, pp. 12778-12789, Aug. 2022, doi: 10.1109/TITS.2021.3117290.
+
+## Code Reference
+https://github.com/zhiyongc/Graph_Convolutional_LSTM/blob/master/Code_V2/HGC_LSTM%20%26%20Experiments.ipynb
