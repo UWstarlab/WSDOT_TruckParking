@@ -8,6 +8,7 @@ Smart and Cooperative Truck Parking Monitoring and Calibration System Empowered 
 * *Truck_Parking_Prediction_DL-2_var.ipynb* well annotated prediction algorithm. Use 2 variables & yield the highest accuracy (l1 loss = 9.202)
 * *Truck_Parking_Prediction_DL-3_var.ipynb* well annotated prediction algorithm. Use 3 variables (l1 loss = 16.068)
 * *Truck_Parking_Prediction_DL-test_version.ipynb* another version of prediction algorithm *(ignore)*
+
 (01/18) Modify *Truck_Parking_Prediction_DL.ipynb* (Not complete)
 
 ## Folder Structure
