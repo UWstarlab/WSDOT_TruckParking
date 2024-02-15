@@ -3,6 +3,9 @@ Smart and Cooperative Truck Parking Monitoring and Calibration System Empowered 
 (FY 2021 High Priority Program – Innovative Technology Deployment Grant FM-MHP-21-2002)
 
 ## Update
+(02/15) Test with multivariate
+* *Truck_Parking_Prediction_DL-multivariate.ipynb*
+
 (02/01) Modify Prediction algorithm
 * *TruckParkingQuery_20220101_20220601.csv* real truck parking data from WisTransPortal
 * *Truck_Parking_Prediction_DL-2_var.ipynb* well annotated prediction algorithm. Use 2 variables & yield the highest accuracy (l1 loss = 9.202)
